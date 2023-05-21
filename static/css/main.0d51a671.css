@@ -2,9 +2,7 @@ body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-f
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
-body{
-  background-color: #bbc4c2;
+   background-color: #bbc4c2;
 }
 .App {
   width: 100%;
