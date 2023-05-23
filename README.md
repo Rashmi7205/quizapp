@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+Introduction:
+--------------
+The webpage located at https://rashmi7205.github.io/quizapp/ is a quiz application that allows users to test their knowledge and answer multiple-choice questions on various topics. This documentation aims to provide an overview of the webpage's features, functionality, and usage instructions.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Homepage:
+----------
+The homepage serves as the starting point of the quiz application.
+It displays a brief introduction to the quiz and provides a "Start Quiz" button to begin the quiz.
+Quiz Questions:
 
-## Available Scripts
+Once the user starts the quiz, they are presented with a series of multiple-choice questions, one at a time.
+Each question is accompanied by a set of options, and the user must select the correct answer.
+The user can only proceed to the next question after providing an answer.
+Progress indicators show the current question number and the total number of questions.
+Score Tracking:
+--------------
 
-In the project directory, you can run:
+The quiz application tracks the user's progress and calculates their score based on their answers.
+At the end of the quiz, the user is presented with their final score, along with the option to restart the quiz.
 
-### `npm start`
+Navigation:
+------------
+The quiz application provides navigation buttons to move between questions.
+Users can use the "Next" button to move to the next question and the "Previous" button to go back to the previous question.
+Users can also use the progress indicators to jump directly to a specific question.
+Results Page:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+After completing all the questions, the user is directed to a results page that displays their final score and performance.
+The results page also provides an option to restart the quiz if the user wishes to retake it.
+Usage Instructions:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Access the webpage by visiting https://rashmi7205.github.io/quizapp/ in a web browser.
 
-### `npm test`
+On the homepage, click the "Start Quiz" button to begin the quiz.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Read each question carefully and select the appropriate answer from the provided options.
 
-### `npm run build`
+Use the navigation buttons or progress indicators to move between questions if needed.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Pay attention to the timer and try to answer the questions within the allotted time to maximize your score.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Once you have answered all the questions, you will be redirected to the results page, where your final score and performance will be displayed.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+If desired, you can restart the quiz by clicking the provided option on the results page.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Conclusion:
+--------------
+The quiz application located at https://rashmi7205.github.io/quizapp/ offers an interactive and engaging platform for users to test their knowledge on various topics. By following the usage instructions and answering the questions within the given time, users can assess their understanding and improve their knowledge in an enjoyable manner.
